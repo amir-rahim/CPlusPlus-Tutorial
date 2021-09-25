@@ -30,6 +30,13 @@ int main() {
     // It is heavily recommended for variables in C++ to be initiated to keep consistency between runs
 
     // In C++ you have typedef which allows you to use an alternative name for a data type
+    typedef int meters;
+    meters distance;
 
+    // Enums limits the options the value of a variable can be, from a predicated list from the declaration
+    enum Colours {Red, Orange, Yellow, Green, Blue, Indigo, Violet} rainbowColours;
+    rainbowColours = Red;
+
+    // This return is the exit code, similar to the exit codes in other languages
     return 0;
 }
