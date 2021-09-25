@@ -1,14 +1,15 @@
 # C++ Tutorial
 
-##Table of Contents
-- **[Chapter 1 - Back to Basics](#Back to Basics)**
-- **[Chapter 2 - Running a Program](#Running a Program)**
-- **[FAQs](#Frequently Asked Questions (FAQs))**
+## Table of Contents
+
+- **[Chapter 1 - Back to Basics](#Back-to-Basics)**
+- **[Chapter 2 - Running a Program](#Running-a-Program)**
+- **[FAQs](#FAQs)**
 - **[Credits](#Credits)**
 
-<a name="Back to Basics"/>
+<a name="Back-to-Basics"/>
 
-##Chapter 1 - Back to Basics
+## Chapter 1 - Back to Basics
 
 Starting off by talking about the fundamental structure of the program in this programming language. 
 
@@ -57,9 +58,9 @@ int main() {
 }
 ```
 
-<a name="Running a Program"/>
+<a name="Running-a-Program"/>
 
-##Chapter 2 - Running a Program
+## Chapter 2 - Running a Program
 
 Now that we have a program in our file, we can save this file with the extension of ".cpp", any extra header files would have the extension of ".h".
 With this you will need knowledge of the terminal or command line in order to run this file, as C++ runs on this (future tutorial potentially to be added).
@@ -74,10 +75,10 @@ This will run the executable file that was generated from the first command... a
 
 <a name="FAQs"/>
 
-##Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 You may have a lot of questions about what this repo is about, and I will try and answer as many as I can.
 
-###Where is that great "Hello World!" program again?
+### Where is that great "Hello World!" program again?
 Here you go!
 ```C++
 #include <iostream>
@@ -91,17 +92,17 @@ int main() {
     return 0;
 }
 ```
-###What is this repo about?
+### What is this repo about?
 This repo is a basic and fundamentals tutorial to the foundations of C++.
 
 This is done through practically using code and comments to demonstrate the features and syntax of the language.
 
-###What is C++?
+### What is C++?
 
 > C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".
 > Source: [Wikipedia](https://en.wikipedia.org/wiki/C++)
 
 <a name="Credits"/>
 
-##Credits
+## Credits
 Creator - Amir Rahim: [@amir-rahim](https://github.com/amir-rahim) on Github and [Amir Rahim](https://www.linkedin.com/in/amir-rahim/) on LinkedIn
