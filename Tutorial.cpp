@@ -29,5 +29,7 @@ int main() {
     wchar_t wideCharacter;
     // It is heavily recommended for variables in C++ to be initiated to keep consistency between runs
 
+    // In C++ you have typedef which allows you to use an alternative name for a data type
+
     return 0;
 }
